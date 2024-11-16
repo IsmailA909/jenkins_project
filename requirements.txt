@@ -1,5 +1,11 @@
 flake8
+<<<<<<< HEAD
 pytest
 coverage
 bandit
 importlib-metadata
+=======
+coverage
+bandit
+pytest
+>>>>>>> 50ca9e1b9405e1a18bfacb8fc34cb4e7cb8de5bd
